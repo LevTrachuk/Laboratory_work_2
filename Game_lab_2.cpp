@@ -10,7 +10,7 @@ using namespace std;
 
 int main()
 {
-    // Реализация взаимодействия классов
+    // Р РµР°Р»РёР·Р°С†РёСЏ РІР·Р°РёРјРѕРґРµР№СЃС‚РІРёСЏ РєР»Р°СЃСЃРѕРІ РґСЂСѓРі СЃ РґСЂСѓРіРѕРј
 
     quest FirstQuest = quest(1, "Begining", "You need to kill 2 big demons");
     NPC Civilian = NPC("Friend", 32, "Friend, pls, help me!", FirstQuest);
